@@ -7,14 +7,14 @@ import Index from './redux/Index';
 // import RandomData from './RandomData/RandomData.js';
 // import  Tesla from './Tesla/Tesla.js';
 // import Axios from './axios/axios.js'
-// import Movie from './MovieDb/Movie.js';
+import Movie from './MovieDb/Movie.js';
 // import Todo from './Todo/Todo.js';
 // import Netflix from './Netflix/Netflix.js'
 // import Game from './Game/Game.js'
 // import Router from './Router/Router.js'
 // import App from './Routing/App.js'
 // import Library from './Library/Library.js'
-import Page1 from './CoordinateChecker/page1';
+// import Page1 from './CoordinateChecker/page1';
 // import UseContext from './custom hooks/markdown-files/Contextapi/UseContext';
 // import App from './shoppingCart/App';
 // import Flag from './Flag/Flag';
@@ -42,11 +42,11 @@ root.render(
 {/* <RandomData/> */}
 {/* <Axios/> */}
 {/* <Fetchdata/> */}
- {/* <Movie/> */}
+ <Movie/>
  {/* <Todo/> */}
  {/* <Netflix/> */}
  {/* <Game/> */}
- <Page1/>
+ {/* <Page1/> */}
 {/* <App/> */}
 {/* <Router/> */}
  {/* <Library/> */}
